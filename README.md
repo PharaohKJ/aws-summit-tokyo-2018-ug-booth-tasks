@@ -1,5 +1,12 @@
 # aws-summit-tokyo-2018-ug-booth-tasks
 
+AWS Summit Tokyo 2018 の JAWS-UGブース担当者向けドキュメント、リンクまとめ。
+
+# 参加方法
+
+協力いただける方は、下記シフト表に参加できる時間を記入し、シャツサイズも記入。
+並行して make-jawsug.slack.com の #summit2018tkybooth チャンネルまで連絡ください。
+
 # 連絡場所
 
 make-jawsug.slack.com の #summit2018tkybooth チャンネルまで。
@@ -13,7 +20,7 @@ Startup 関連エリアの横、セルフスペースラボの前にあたる部
 
 # ブース担当者
 
-スタッフTシャツあります。2018-05-25現在応募終了？
+スタッフTシャツあります。
 https://docs.google.com/spreadsheets/d/1sNQBBMyb_SBo6TY3OLsAopINctivLH5u4tla7y81ogQ/edit#gid=2011212844
 
 ## 受取

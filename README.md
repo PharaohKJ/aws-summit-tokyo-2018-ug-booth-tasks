@@ -40,5 +40,16 @@ https://make-jawsug.slack.com/files/U6NU9AKEC/FAUQ5FC0Z/aws_summit_2018_________
 - お客さんがいらっしゃったらJAWS-UGと各支部の紹介と案内
 - 各支部紹介などのPPTがくるくる自動再生されているPC・40inchディスプレイがあるので見張る
 - JAWS-UGステッカー・re:Mixステッカーを配る
-- JAWS-UGメンバにreMix入場シール(!= ステッカ、サイズが違う)を配る？(いったん古渡さんに方法などおまかせしているので分かり次第update)
+
+
+# re:Mix入場について
+
+re:Mixがあっという間に満席になってしまったため、各支部JAWS-UGメンバーが申し込めなかった。
+運営としても入れないので、JAWS-UGメンバーかつ当日re:Mix希望者にはオフィシャル許可シールを配っています。
+（シールのデザインは、↑で配っているre:Mixステッカーのサイズ違い)
+
+詳細は以下を参照。欲しい方が現れたら以下ドキュメントの「シール配布協力者」を参照し案内してください。
+
+https://docs.google.com/document/d/1I2UyMtYPx1Ca4kLFlilkjEvBufOvXxXLHlV-VmeAi3k/edit?usp=sharing
+
 

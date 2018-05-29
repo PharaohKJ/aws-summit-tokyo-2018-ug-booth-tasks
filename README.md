@@ -32,6 +32,8 @@ https://docs.google.com/spreadsheets/d/1sNQBBMyb_SBo6TY3OLsAopINctivLH5u4tla7y81
 
 https://docs.google.com/spreadsheets/d/1sNQBBMyb_SBo6TY3OLsAopINctivLH5u4tla7y81ogQ/edit#gid=0
 
+飛天会場は9時には入れるらしいので朝イチシフト勢はがんばってきてください。8時にはAWS沼口さんが会場にいらっしゃってるので入場に困ったら上記連絡場所で@numaguchi(aws) さんに声かけてください。
+
 
 # 当日までに
 
